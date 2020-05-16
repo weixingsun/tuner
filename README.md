@@ -3,9 +3,9 @@
 The purpose of developing this tool is provide a method to tune various workloads by using Gaussian Process & Bayesian Optimization
 
 
-Python version [HyperOpt](https://github.com/hyperopt/hyperopt) is ready.
+Python version is ready.
 
-C++ version still developing [Limbo](https://github.com/resibots/limbo) / [bayesopt](https://github.com/rmcantin/bayesopt) version.
+C++ version will be ready soon.
 
 
 One scenario to standalone app:
