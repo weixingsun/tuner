@@ -12,7 +12,7 @@ One scenario to standalone app:
 1. monitor memory bandwidth: change the bios [options](https://github.com/weixingsun/tuner/blob/master/cfg/bios.json) (over rebooting)
 2. monitor benchmark score:  change the java [options](https://github.com/weixingsun/tuner/blob/master/cfg/java.json) (re-launching)
 3. monitor training duration: change the DL [hyperparameters](https://github.com/weixingsun/tuner/blob/master/cfg/deep_learning.json) (re-launching)
-4. monitor LLC miss rate.  search space: the nested-loop order, array size,,,
+4. monitor LLC miss rate.  search space: the nested-loop order, array size, and power measurements etc.
 
 
 Another scenario is integrate with [jbprof](https://github.com/weixingsun/jbprof) to mornitor the latency / counter of a java function:
